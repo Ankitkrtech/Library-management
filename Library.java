@@ -9,7 +9,7 @@ import java.util.Scanner;
 // Class
 public class Library {
 
-    // Main driver method
+    
     public static void main(String[] args)
     {
         // Creating object of Scanner class
@@ -18,7 +18,7 @@ public class Library {
 
         // Displaying menu
         System.out.println(
-                "********************Welcome to the GFG Library!********************");
+                "********************Welcome to the Ankit Library!********************");
         System.out.println(
                 "                  Select From The Following Options:               ");
         System.out.println(
